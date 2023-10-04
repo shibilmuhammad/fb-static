@@ -1,0 +1,206 @@
+.header{
+    width: auto;
+    height: 85px;
+    background:#3b5998;
+}
+body{
+    margin: 0;
+    font-family: helvetica neue,helvetica,Arial, Helvetica, sans-serif;;
+}
+.logo{
+   
+    width: 50%;
+    float:left;
+    padding-top: 28px;
+
+   
+  
+
+}
+.login{
+    width: 50%;
+    float:left;
+   
+   
+
+}
+.logotext{
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: helvetica neue,helvetica,Arial, Helvetica, sans-serif;
+    color: #fff;
+    margin-left: 170px;
+
+
+}
+.logintext{
+    color: #fff;
+    font-size:11px ;
+}
+.logincontroltable{
+
+    margin-left: 115px;
+
+}
+.forgottentext{
+    
+    font-size: 11px;
+    color: #9cb4d8;
+    text-decoration: 0;
+}
+.submitbutton{
+    background-color: #4267b2;
+    
+    border: solid  #29487d;
+    color: #fff;
+    height: 21px;
+    font-weight:600;
+    cursor: pointer;
+
+}
+.submitbutton:hover{
+    background-color: darkblue;
+}
+.space{
+    padding-right: 15px;
+}
+.Mainbody{
+    width:100%;
+    height: 670px;
+    background:linear-gradient(white,rgb(213, 227, 251))
+}
+.bodyfirsthalf{
+    width: 40%;
+    float: left;
+    margin-top: 40px;
+    padding-left: 170px;
+    
+
+
+}
+.bodysecondhalf{
+    width: 30%;
+    float: left;
+    padding-left: 55px;
+    margin-top: 28px;
+
+   
+}
+.para1{
+    font-size: 20px;
+    font-weight:bold;
+    
+}
+.quick{
+    font-size: 18px;
+    
+}
+.creataccount{
+    margin-bottom: -8px;
+    font-size: 34px;
+}
+.CreateAccountTable{
+    width: px;
+}
+.CreateAccountRow{
+    width: 10px;
+
+}.formcontroll{
+    height: 10px;
+}
+.createaccountformcontroll{
+    width: 190px;
+    height: 36px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+    border-radius: 5px;
+   border: 1px solid rgb(182, 189, 194);
+   font-size: 16px;
+    font-weight:100;
+
+}
+.createaccountformcontroll2{
+    width: 400px;
+    height: 36px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+    border-radius: 5px;
+    border: 1px solid rgb(182, 189, 194);
+    font-size: 16px;
+ }
+ #Newpassword{
+    width: 400px;
+    height: 36px;
+    margin-right: 7px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid rgb(182, 189, 194);
+    font-size: 16px;
+
+ }
+ ::placeholder{
+ opacity: .7;
+ font-size: 18px;
+ color: rgb(138, 136, 136);
+
+ }
+ .Birthday{
+    color: rgb(149, 150, 149);
+    font-weight:600;
+    font-size:17px;
+
+ }
+ #Day{
+    height: 29px;
+    width: 56px;
+    margin-top: 10px;
+    margin-bottom: 26px;
+ }
+ #Month{
+    margin-top: 10px;
+    height: 29px;
+    width: 76px;
+    margin-bottom: 7px;
+ }
+#Year{
+    margin-top: 10px;
+    height: 29px;
+    width: 76px;
+    margin-bottom: 7px;
+} 
+#genderspace{
+    padding-top: 10px;
+    font-size: 20px;
+    font-weight: 350;
+    color:black
+
+}
+.policy{
+    font-size: 12px;
+    color: #727479;
+    
+
+}
+span{
+    color: yellow;
+}
+#submitbutton{
+    height: 34px;
+    background-color:#63a450;
+    color: white;
+    border: 1px solid darkgreen;
+    width: 175px;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+}
+#form{
+margin-top: 25px;
+}
+.female{
+    margin-bottom: 20px;
+}
+
+
